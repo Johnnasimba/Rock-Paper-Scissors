@@ -159,8 +159,6 @@ window.select = select;
 resetAll();
 
 
-
-
 // Confetti.js - downloaded from https://www.cssscript.com/confetti-falling-animation/
 
 var confetti = {
